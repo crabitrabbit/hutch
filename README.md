@@ -1,5 +1,7 @@
-hutch
+Hutch
 =========
+
+[![Build Status](https://travis-ci.org/crabitrabbit/hutch.svg?branch=master)](https://travis-ci.org/crabitrabbit/hutch)
 
 A minimal SASS boilerplate
 

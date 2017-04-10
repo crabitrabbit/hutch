@@ -26,6 +26,7 @@
     "node": ">=4.2.4"
   },
   "devDependencies": {
+    "coveralls": "^2.13.0",
     "del": "^2.2.2",
     "gulp": "^3.9.1",
     "gulp-rename": "^1.2.2",

@@ -1,0 +1,35 @@
+{
+  "name": "@crabitrabbit/hutch",
+  "version": "0.0.1",
+  "description": "A minimal SASS boilerplate",
+  "main": "index.js",
+  "scripts": {
+    "test": "test",
+    "ci": "node_modules/gulp/bin/gulp.js ci"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/crabitrabbit/hutch.git"
+  },
+  "keywords": [
+    "hutch",
+    "sass",
+    "boilerplate"
+  ],
+  "author": "crabitrabbit <crabitrabbit@craigharvie.me> (http://craigharvie.me)",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/crabitrabbit/hutch/issues"
+  },
+  "homepage": "https://github.com/crabitrabbit/hutch#readme",
+  "engines": {
+    "node": ">=4.2.4"
+  },
+  "devDependencies": {
+    "del": "^2.2.2",
+    "gulp": "^3.9.1",
+    "gulp-rename": "^1.2.2",
+    "gulp-sass": "^3.1.0",
+    "gulp-util": "^3.0.8"
+  }
+}
